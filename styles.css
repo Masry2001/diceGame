@@ -1,0 +1,82 @@
+body {
+  background-color: #393E46;
+}
+.container {
+  width: 70%;
+  height: 700px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.play {
+  color:#333 ;
+  background-color: #4ECCA3;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  padding: 20px 20px;
+  letter-spacing: 2px;
+  border-radius: 15px ;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-border-radius: 15px ;
+  -moz-border-radius: 15px ;
+  -ms-border-radius: 15px ;
+  -o-border-radius: 15px ;
+  cursor: pointer;
+}
+
+.main-btn {
+  color:#333 ;
+  background-color: #4ECCA3;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  padding: 20px 20px;
+  letter-spacing: 1px;
+  border-radius: 15px ;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-border-radius: 15px ;
+  -moz-border-radius: 15px ;
+  -ms-border-radius: 15px ;
+  -o-border-radius: 15px ;
+}
